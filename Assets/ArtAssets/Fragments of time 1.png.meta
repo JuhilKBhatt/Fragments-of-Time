@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 49afea5265e7f254b8c67537bc7962e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9066512054856305930
+    second: Fragments of time 1_0
+  - first:
+      213: 9161605232238558541
+    second: Fragments of time 1_1
+  - first:
+      213: -2235808389675540028
+    second: Fragments of time 1_2
+  - first:
+      213: 4085661358343661176
+    second: Fragments of time 1_3
+  - first:
+      213: 6195854835693340483
+    second: Fragments of time 1_4
+  - first:
+      213: 4220633927366285662
+    second: Fragments of time 1_5
+  - first:
+      213: 8205317832639820780
+    second: Fragments of time 1_6
+  - first:
+      213: -294537302250945517
+    second: Fragments of time 1_7
+  - first:
+      213: 6377571283214721452
+    second: Fragments of time 1_8
+  - first:
+      213: 2295325200575898394
+    second: Fragments of time 1_9
+  - first:
+      213: 6396687999656457228
+    second: Fragments of time 1_10
+  - first:
+      213: -2470501160474901519
+    second: Fragments of time 1_11
+  - first:
+      213: 4804348671582854845
+    second: Fragments of time 1_12
+  - first:
+      213: 1921705065493907523
+    second: Fragments of time 1_13
+  - first:
+      213: 6221044158446802918
+    second: Fragments of time 1_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fragments of time 1_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 275
+        width: 129
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f23e7292574d2280800000000000000
+      internalID: -9066512054856305930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragments of time 1_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 276
+        width: 138
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d70ff1b6f842f70800000000000000
+      internalID: 9161605232238558541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragments of time 1_2
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 275
+        width: 154
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c12d8b8d10d8f0e0800000000000000
+      internalID: -2235808389675540028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragments of time 1_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 276
+        width: 139
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8762d90db5f23b830800000000000000
+      internalID: 4085661358343661176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragments of time 1_4
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 275
+        width: 179
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347436165291cf550800000000000000
+      internalID: 6195854835693340483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragments of time 1_5
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 276
+        width: 132
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5911afe134b29a30800000000000000
+      internalID: 4220633927366285662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragments of time 1_6
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 275
+        width: 145
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3bcab58152fd170800000000000000
+      internalID: 8205317832639820780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragments of time 1_7
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 275
+        width: 160
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3140b3652e799ebf0800000000000000
+      internalID: -294537302250945517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragments of time 1_8
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 275
+        width: 141
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1eeb1da4fa18850800000000000000
+      internalID: 6377571283214721452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragments of time 1_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 44
+        width: 135
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a132458db12aadf10800000000000000
+      internalID: 2295325200575898394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragments of time 1_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 44
+        width: 130
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04f68638d995c850800000000000000
+      internalID: 6396687999656457228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragments of time 1_11
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 44
+        width: 167
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f304b8a84407bdd0800000000000000
+      internalID: -2470501160474901519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragments of time 1_12
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 44
+        width: 50
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbed0da89a97ca240800000000000000
+      internalID: 4804348671582854845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragments of time 1_13
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 44
+        width: 170
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34845df43944baa10800000000000000
+      internalID: 1921705065493907523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fragments of time 1_14
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 44
+        width: 122
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e79d3c93b6955650800000000000000
+      internalID: 6221044158446802918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fragments of time 1_0: -9066512054856305930
+      Fragments of time 1_1: 9161605232238558541
+      Fragments of time 1_10: 6396687999656457228
+      Fragments of time 1_11: -2470501160474901519
+      Fragments of time 1_12: 4804348671582854845
+      Fragments of time 1_13: 1921705065493907523
+      Fragments of time 1_14: 6221044158446802918
+      Fragments of time 1_2: -2235808389675540028
+      Fragments of time 1_3: 4085661358343661176
+      Fragments of time 1_4: 6195854835693340483
+      Fragments of time 1_5: 4220633927366285662
+      Fragments of time 1_6: 8205317832639820780
+      Fragments of time 1_7: -294537302250945517
+      Fragments of time 1_8: 6377571283214721452
+      Fragments of time 1_9: 2295325200575898394
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

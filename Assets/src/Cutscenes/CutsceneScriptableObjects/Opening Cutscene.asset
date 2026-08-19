@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 853bcd4b9e6dfe84d99eea47ffcde454, type: 3}
+  m_Name: Opening Cutscene
+  m_EditorClassIdentifier: 
+  cutsceneText:
+  - 
+  - Finally ... after all these years ... The ruins of aeon
+  - I knew it couldn't all just be a myth!
+  - if the legends are accurate the crystal of aeons lies just a bit futher ...
+  isCutsceneAction: 01000000
+  actions: 01000000000000000000000000000000
+  objectsToInstantiateInScene:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  objectToAniamte: 00000000000000000000000000000000
+  thignsToDo: []

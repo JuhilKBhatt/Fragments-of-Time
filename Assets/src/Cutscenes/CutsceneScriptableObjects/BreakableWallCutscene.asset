@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 853bcd4b9e6dfe84d99eea47ffcde454, type: 3}
+  m_Name: BreakableWallCutscene
+  m_EditorClassIdentifier: 
+  cutsceneText:
+  - Great, there's a wall here, I guess im stuck.
+  - 
+  - 
+  - 
+  - 
+  - woah, what just happened?
+  isCutsceneAction: 000101010100
+  actions: 000000000200000004000000040000000500000000000000
+  objectsToInstantiateInScene:
+  - {fileID: 0}
+  - {fileID: 7595333376485900909, guid: c74ad801cabeee7478e9343a4d56a802, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  objectToAniamte: 000000000000000000000000000000000000000000000000
+  thignsToDo:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 3904584032979324755, guid: 9fa18d5e0b14aa843be93a0ab5adbcd5, type: 3}
+  - {fileID: 8189525774887399387, guid: 53ef3053adc96034c8432b8e985ff20f, type: 3}
+  - {fileID: -4342400678882375773, guid: 9971629e54918b3438a7cf7bdac48fbd, type: 3}
+  - {fileID: 0}

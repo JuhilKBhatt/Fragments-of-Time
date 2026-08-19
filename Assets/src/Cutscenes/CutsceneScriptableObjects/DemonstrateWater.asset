@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 853bcd4b9e6dfe84d99eea47ffcde454, type: 3}
+  m_Name: DemonstrateWater
+  m_EditorClassIdentifier: 
+  cutsceneText:
+  - I will just sink if I go in there and I wont be able to get back out. Better
+    find another way.
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - ...
+  - ...
+  isCutsceneAction: 0001010101010101010100
+  actions: 0000000004000000020000000400000004000000040000000400000004000000040000000400000000000000
+  objectsToInstantiateInScene:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 7595333376485900909, guid: e50d6645710596148ac76cc112de2c15, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  objectToAniamte: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  thignsToDo:
+  - {fileID: 0}
+  - {fileID: -396189439361879578, guid: a1daf7289cf4ab44aacbacee880c367b, type: 3}
+  - {fileID: 0}
+  - {fileID: 2386592833122026830, guid: bee99a8281393264bac8924dc6298605, type: 3}
+  - {fileID: 2295718988170970613, guid: d1833d6ebd785074a9ce0ab9d73ac972, type: 3}
+  - {fileID: 8189525774887399387, guid: 445239d3c4ef4524ca5fb974cb9fc444, type: 3}
+  - {fileID: 2295718988170970613, guid: efed9d29e8fc50b43a5e37b79f22aec1, type: 3}
+  - {fileID: 2386592833122026830, guid: ad3f361c11a52964282ef7975347cfcb, type: 3}
+  - {fileID: 8189525774887399387, guid: 445239d3c4ef4524ca5fb974cb9fc444, type: 3}
+  - {fileID: -4342400678882375773, guid: 5fffe4a999b982a41b3d5ec42b6a03f9, type: 3}
+  - {fileID: 0}

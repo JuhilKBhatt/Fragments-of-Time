@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125095e976ca5ae4881c898413d74f12, type: 3}
+  m_Name: TutroialLevel
+  m_EditorClassIdentifier: 
+  LevelName: TutorialLevel
+  sizeOfRoomX: 25
+  sizeOfRoomY: 15
+  pastRooms:
+  - {fileID: 11400000, guid: 801a1c24a67d352459ee0a36f045c072, type: 2}
+  - {fileID: 11400000, guid: b451517535a96614cb347cfbc5e6e0c9, type: 2}
+  - {fileID: 11400000, guid: 5566ccc739a443740bee04ca730b95e8, type: 2}
+  - {fileID: 11400000, guid: 5363b35566f069640b3e40c4064ec607, type: 2}
+  - {fileID: 11400000, guid: ae1c29e778bffc144a5a1adfca8dcc47, type: 2}
+  - {fileID: 11400000, guid: fbc1aea7623de0f4f85f6f13b35cd1a7, type: 2}
+  - {fileID: 11400000, guid: d760e6fc797a76d439495f3fb6b49dc8, type: 2}
+  - {fileID: 11400000, guid: 514ea526d41635740b5f8650d12fd4dc, type: 2}
+  - {fileID: 11400000, guid: 46fb90d04303e8044b7432757e3ccc64, type: 2}
+  futureRooms:
+  - {fileID: 11400000, guid: 9e9270e6a0584df4e9ddcd9d6a2e07f4, type: 2}
+  - {fileID: 11400000, guid: d12fc7ecfe519f444b55d0f9938be844, type: 2}
+  - {fileID: 11400000, guid: 02359cdcae96c0843b192dc37ada4031, type: 2}
+  - {fileID: 11400000, guid: 84dd64cce7c569c47986fa6de901f525, type: 2}
+  - {fileID: 11400000, guid: fdd77cf9c8c1d9e4c8c7a5f055264fbc, type: 2}
+  - {fileID: 11400000, guid: a5b4e1798674a714d8ba3f8abf5ad8b1, type: 2}
+  - {fileID: 11400000, guid: 6b4db249de3de2842a0908cec0a25b1b, type: 2}
+  - {fileID: 11400000, guid: 054cea80856cd84429a22819e7ac48b6, type: 2}
+  - {fileID: 11400000, guid: 490d268c1b0e00a458aac7993ba68592, type: 2}
+  RoomStartsInPast: 000000000000000100

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125095e976ca5ae4881c898413d74f12, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  LevelName: Level1
+  sizeOfRoomX: 25
+  sizeOfRoomY: 15
+  pastRooms:
+  - {fileID: 11400000, guid: d4d48eebf0b3d4a43add9e46ac25917c, type: 2}
+  - {fileID: 11400000, guid: e815f57706b84454a826778fa6acd349, type: 2}
+  - {fileID: 11400000, guid: eb510593cd02c604181ce864d79427e4, type: 2}
+  - {fileID: 11400000, guid: 1058b20716140164dbf343de75295b95, type: 2}
+  - {fileID: 11400000, guid: 354b5c90b798cf8449bc5c4ac95665d1, type: 2}
+  futureRooms:
+  - {fileID: 11400000, guid: 9c493626c73d1174aa5975dc1740fdf5, type: 2}
+  - {fileID: 11400000, guid: 0e18d775637b39a4fa2a14efc3211bb9, type: 2}
+  - {fileID: 11400000, guid: 7f71826865ac51042bfa2bd2e22a0a1f, type: 2}
+  - {fileID: 11400000, guid: 7fa6c9e5d92514f459fcd00d1bc54768, type: 2}
+  - {fileID: 11400000, guid: 4fc937857b3fa8a48b39653832cf65a9, type: 2}
+  RoomStartsInPast: 

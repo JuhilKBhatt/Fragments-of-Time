@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125095e976ca5ae4881c898413d74f12, type: 3}
+  m_Name: Level4
+  m_EditorClassIdentifier: 
+  LevelName: Level4
+  sizeOfRoomX: 25
+  sizeOfRoomY: 15
+  pastRooms:
+  - {fileID: 11400000, guid: 57b23a5477055e24a8544a8f47c9d7f7, type: 2}
+  - {fileID: 11400000, guid: 5fa0b65dc26d2404792560d406992c67, type: 2}
+  - {fileID: 11400000, guid: e29d1efe5b8214cd08630ead8b9ddc8a, type: 2}
+  - {fileID: 11400000, guid: 5de164be17968d141ac99b2a7e1b2f22, type: 2}
+  futureRooms:
+  - {fileID: 11400000, guid: 18a43ce7d35748f4e9803e3796da8ffb, type: 2}
+  - {fileID: 11400000, guid: aba54af08fe0347f6a03e9428ee02757, type: 2}
+  - {fileID: 11400000, guid: 37d6fccb14a9e44a8ad4e36dbe1ffa25, type: 2}
+  - {fileID: 11400000, guid: 1cea66382201f9b4ba0ebe6f4e3ed616, type: 2}
+  RoomStartsInPast: 00000100

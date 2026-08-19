@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 853bcd4b9e6dfe84d99eea47ffcde454, type: 3}
+  m_Name: TestCutscene1
+  m_EditorClassIdentifier: 
+  cutsceneText:
+  - 
+  - "*THIS* .... is a test cutscene. this is checking now if its going to scroll
+    off scren \n\n\n\n\n-Ligma                                               \nballs"
+  - DELTARUNE TOMORROW?
+  - joe
+  isCutsceneAction: 01000000

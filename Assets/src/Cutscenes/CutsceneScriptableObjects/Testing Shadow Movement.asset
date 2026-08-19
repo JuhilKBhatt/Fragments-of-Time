@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 853bcd4b9e6dfe84d99eea47ffcde454, type: 3}
+  m_Name: Testing Shadow Movement
+  m_EditorClassIdentifier: 
+  cutsceneText:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  isCutsceneAction: 010101010101010101
+  actions: 020000000400000004000000040000000400000004000000040000000400000004000000
+  objectsToInstantiateInScene:
+  - {fileID: 7595333376485900909, guid: e50d6645710596148ac76cc112de2c15, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  objectToAniamte: 000000000000000000000000000000000000000000000000000000000000000000000000
+  thignsToDo:
+  - {fileID: 0}
+  - {fileID: 2386592833122026830, guid: c30c83a9ea7da15429599cbc697a4d87, type: 3}
+  - {fileID: 3904584032979324755, guid: d06940ffc5de91a4a80b92fe1370a71a, type: 3}
+  - {fileID: 3904584032979324755, guid: d06940ffc5de91a4a80b92fe1370a71a, type: 3}
+  - {fileID: 2295718988170970613, guid: 7731bb8f218da8d41be1487101a9b758, type: 3}
+  - {fileID: -220539798280121685, guid: 406921530b6180142b049151403c6f7e, type: 3}
+  - {fileID: 3904584032979324755, guid: d06940ffc5de91a4a80b92fe1370a71a, type: 3}
+  - {fileID: 8189525774887399387, guid: 6218076205ae199449d24e179bf260d4, type: 3}
+  - {fileID: -4936224369333106053, guid: 7ed2f65f1313ad44e827475939272013, type: 3}
