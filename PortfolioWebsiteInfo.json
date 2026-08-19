@@ -1,0 +1,14 @@
+{
+ "title": "Fragments of Time",
+ "description": "a 2D puzzle-platformer where players shift between an ancient temple of the past and its decayed future. Using time-travel mechanics to solve environmental puzzles, you must restore the Crystal of Aeons and piece together a forgotten story.",
+ "language": ["C#", "Unity"],
+ "liveDemo": "https://b-dude.itch.io/fragments-of-time",
+ "images": [
+   ""
+ ],
+ "videoDemo": "",
+ "Priority": 1,
+ "type": "Group",
+ "version": "Prod",
+ "Visibilty": true
+}
