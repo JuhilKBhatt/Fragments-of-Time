@@ -1,18 +1,43 @@
 {
- "title": "Fragments of Time",
- "description": "a 2D puzzle-platformer where players shift between an ancient temple of the past and its decayed future. Using time-travel mechanics to solve environmental puzzles, you must restore the Crystal of Aeons and piece together a forgotten story.",
- "language": ["C#", "Unity"],
- "liveDemo": "https://b-dude.itch.io/fragments-of-time",
- "images": [
-   "https://res.cloudinary.com/dmj4ggkjq/image/upload/v1787103545/Fragments-of-Time-mg-1_enyihm.png",
-   "https://res.cloudinary.com/dmj4ggkjq/image/upload/v1787103544/Fragments-of-Time-mg-2_oat5fj.png",
-   "https://res.cloudinary.com/dmj4ggkjq/image/upload/v1787103545/Fragments-of-Time-mg-3_uky76y.png",
-   "https://res.cloudinary.com/dmj4ggkjq/image/upload/v1787103545/Fragments-of-Time-mg-4_bcvxyb.png",
-   "https://res.cloudinary.com/dmj4ggkjq/image/upload/v1787103546/Fragments-of-Time-mg-5_iyrrco.png"
- ],
- "videoDemo": "https://res.cloudinary.com/dmj4ggkjq/video/upload/v1787103574/Fragments-of-Time-video-1_jyslqh.mp4",
- "Priority": 1,
- "type": "Group",
- "version": "Prod",
- "Visibilty": true
+  "title": "Fragments of Time",
+  "description": "A 2D puzzle-platformer where players shift between an ancient temple of the past and its decayed future. Using time-travel mechanics and echo abilities to solve environmental puzzles, players must restore the Crystal of Aeons and piece together a forgotten story.",
+  "techStack": {
+    "Frontend": [
+      "Unity"
+    ],
+    "Backend": [
+      "C#",
+      ".NET"
+    ],
+    "DevSecOps": [
+      "GitHub",
+      "Itch.io"
+    ],
+    "Test Automation": [
+      "Unity Test Framework",
+      "Play Testing"
+    ]
+  },
+  "liveDemo": "https://b-dude.itch.io/fragments-of-time",
+  "images": [
+    "https://res.cloudinary.com/dmj4ggkjq/image/upload/v1787103545/Fragments-of-Time-mg-1_enyihm.png",
+    "https://res.cloudinary.com/dmj4ggkjq/image/upload/v1787103544/Fragments-of-Time-mg-2_oat5fj.png",
+    "https://res.cloudinary.com/dmj4ggkjq/image/upload/v1787103545/Fragments-of-Time-mg-3_uky76y.png",
+    "https://res.cloudinary.com/dmj4ggkjq/image/upload/v1787103545/Fragments-of-Time-mg-4_bcvxyb.png",
+    "https://res.cloudinary.com/dmj4ggkjq/image/upload/v1787103546/Fragments-of-Time-mg-5_iyrrco.png"
+  ],
+  "videoDemo": "https://res.cloudinary.com/dmj4ggkjq/video/upload/v1787103574/Fragments-of-Time-video-1_jyslqh.mp4",
+  "Priority": 1,
+  "category": "Game",
+  "type": "Team",
+  "version": "Prod",
+  "versionNumber": "1.1.3",
+  "Highlights": [
+    "Dual-timeline temporal shifting mechanic enabling seamless real-time transitions between past and future temple environments",
+    "Echo and Shadow Echo projection abilities allowing players to duplicate actions and solve collaborative multi-switch puzzles",
+    "Custom URP Shader Graph post-processing glitch and swirl distortion effects for cinematic temporal transitions",
+    "Dynamic 2D physics puzzles featuring kinetic momentum preservation, pressure plate triggers, and breakable obstacles",
+    "Cross-platform WebGL build pipeline deployed to Itch.io with responsive 2D Cinemachine camera tracking and adaptive cutscenes"
+  ],
+  "Visibilty": true
 }
